@@ -96,6 +96,7 @@ Results are saved to `Jobs.csv` with the following columns:
 - A small `time.sleep()` delay is used between actions to mimic human behavior
 - CSS class names on Wuzzuf may change over time — update selectors if the scraper breaks
 
+
 ---
 
 ## 📄 License
