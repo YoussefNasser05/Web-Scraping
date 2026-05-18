@@ -35,7 +35,7 @@ This scraper automates job searching across multiple tech roles and extracts key
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/wuzzuf-job-scraper.git
+   git clone https://github.com/YoussefNasser05/wuzzuf-job-scraper.git
    cd wuzzuf-job-scraper
    ```
 
